@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Mejit</h1>
-![Farmers Market Finder Demo](demo/demo.gif)
+<p align="center">
+  <img src="https://i.gifer.com/XOsX.gif" alt="Cute cat GIF" />
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/mejit_098" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mejit_098" height="30" width="40" /></a>
