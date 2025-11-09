@@ -13,7 +13,7 @@
   ☕ Люблю создавать проекты, которые приносят радость и пользу.  
   🚀 Стремлюсь развиваться и вдохновлять других своим примером.
 
-<img align="right" src="https://i.gifer.com/XOsX.gif" alt="Анимированная утка" width="250"/>
+<img align="right" src="https://dribbble.com/shots/3840266-unimpressed-cat-gif?utm_source=Clipboard_Shot&utm_campaign=henrique_barone&utm_content=unimpressed%20cat%20%5Bgif%5D&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=henrique_barone&utm_content=unimpressed%20cat%20%5Bgif%5D&utm_medium=Social_Share" alt="Анимированная утка" width="250"/>
 </p>
 
 
